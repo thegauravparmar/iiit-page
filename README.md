@@ -1,2 +1,1 @@
-# iiit-page
-This is going to be the template for all the IIIT pages
+This is the second theme which we are developing.
